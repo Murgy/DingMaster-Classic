@@ -1,7 +1,7 @@
-## Interface: 11302
+## Interface: 11305
 ## Title: DingMaster
-## Author: Murgy @ Arcanite Reaper
-## Version: 1.0.6
+## Author: Murgy
+## Version: 1.0.7
 ## Notes: Notifies your guild every time you level
 
 DingMaster.lua
